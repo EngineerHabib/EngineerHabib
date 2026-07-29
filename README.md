@@ -91,7 +91,7 @@ Experience building systems like:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/EngineerHabib)
 - LinkedIn: Add your LinkedIn profile
 - Email: Add your email
 
