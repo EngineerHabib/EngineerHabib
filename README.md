@@ -92,7 +92,7 @@ Experience building systems like:
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/YOUR_USERNAME](https://github.com/EngineerHabib)
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: https://www.linkedin.com/in/habiburrahman2001/
 - Email: Add your email
 
 ---
