@@ -93,7 +93,7 @@ Experience building systems like:
 
 - GitHub: [https://github.com/YOUR_USERNAME](https://github.com/EngineerHabib)
 - LinkedIn: https://www.linkedin.com/in/habiburrahman2001/
-- Email: Add your email
+- Email: habibengineer2001@gmail.com
 
 ---
 
