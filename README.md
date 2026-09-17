@@ -31,11 +31,14 @@ I enjoy developing backend systems, designing REST APIs, managing databases, and
 - CSS3
 - JavaScript
 - Bootstrap
+- Tailwind
+- React
 
 ### Database
 - PostgreSQL
 - SQLite
 - Django ORM
+- MongoDB
 
 ### Deployment & Tools
 - Git & GitHub
