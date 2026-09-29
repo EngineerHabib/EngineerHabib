@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Habibur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:habibengineer2001@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=habibengineer2001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-habibengineer2001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
