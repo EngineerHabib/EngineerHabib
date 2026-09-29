@@ -140,7 +140,7 @@ This keeps the project ecosystem clean, organized and easy to explore.
 
 > More projects will be added as they are completed and deployed.
 
-| Project                   | Technology        | Source Code                                          | Live Demo   |
+| Project                   | Technology |Frontend        | Source Code                                          | Live Demo   |
 | ------------------------- | ----------------- | ---------------------------------------------------- | ----------- |
 | 🚀 KORMO                  | Django · REST API | [Repository](https://github.com/EngineerHabib/kormo) | Coming Soon |
 | 🌐 Django Web Application | Django            | [Repository](https://github.com/EngineerHabib)       | Coming Soon |
