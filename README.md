@@ -153,6 +153,11 @@ This keeps the project ecosystem clean, organized and easy to explore.
 
 <div align="center">
 
+
+<p align="center">
+  <img src="./assets/contribution-graph.svg" alt="GitHub Contribution Activity" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=EngineerHabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br><br>
