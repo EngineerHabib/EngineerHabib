@@ -176,15 +176,15 @@ This keeps the project ecosystem clean, organized and easy to explore.
 
 ## 🎯 My Development Journey
 
-<div align="center">
+### **Learn → Build → Solve → Improve → Repeat**
 
-### Learn → Build → Practice → Solve → Improve
+> **Learn deeply. Build consistently. Solve real problems. Improve every day.**
 
-</div>
+My journey in software engineering is driven by continuous learning and hands-on development.
+I focus on turning knowledge into real-world projects, solving practical problems, and continuously improving my skills.
 
-I believe that consistent learning and real-world projects are the foundation of becoming a better software engineer.
+**Curiosity → Learning → Practice → Real Projects → Growth**
 
----
 
 ## 🤝 Connect With Me
 
