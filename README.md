@@ -2,7 +2,8 @@
 
 # **Md. Habibur Rahman**
 
-### 💻 Aspiring Software Engineer · Full-Stack Developer · Technology Enthusiast
+### 💻 Software Engineering | Full-Stack Web Development | Backend Engineering | Modern Web Technologies
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+REST+API;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Applications;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
@@ -170,7 +171,19 @@ This keeps the project ecosystem clean, organized and easy to explore.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngineerHabib&theme=tokyo-night&hide_border=true" />
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EngineerHabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerHabib&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=EngineerHabib&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -200,8 +213,8 @@ I believe that consistent learning and real-world projects are the foundation of
 <img src="https://img.shields.io/badge/LinkedIn-Habibur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:habibengineer2001@gmail.com">
-<img src="https://img.shields.io/badge/Email-habibengineer2001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=habibengineer2001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-habibengineer2001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
