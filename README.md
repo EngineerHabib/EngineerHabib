@@ -44,7 +44,7 @@ I enjoy learning through real-world projects, developing REST APIs, working with
 |    🧩 Category   |                                       📂 Explore                                       |
 | :--------------: | :------------------------------------------------------------------------------------: |
 |     🐍 Python    |        [View Python Projects](https://github.com/EngineerHabib/python-projects)        |
-|     🌐 Django    |        [View Django Projects](https://github.com/EngineerHabib/django-projects)        |
+|     🌐 Django    |       [View Django Projects](https://github.com/EngineerHabib?tab=repositories&q=django) |       |
 |    🔗 REST API   |      [View REST API Projects](https://github.com/EngineerHabib/rest-api-projects)      |
 |     ⚛️ React     |         [View React Projects](https://github.com/EngineerHabib/react-projects)         |
 |     ▲ Next.js    |        [View Next.js Projects](https://github.com/EngineerHabib/nextjs-projects)       |
