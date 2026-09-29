@@ -5,7 +5,8 @@
 ### 💻 Software Engineering | Full-Stack Web Development | Backend Engineering | Modern Web Technologies
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+REST+API;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Applications;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+REST+API;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Applications;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+
 
 <br>
 
