@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Md. Habibur Rahman**
+# **Md. Habibur Rahman**
 
 ### 💻 Aspiring Software Engineer · Full-Stack Developer · Technology Enthusiast
 
