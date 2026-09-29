@@ -170,9 +170,16 @@ This keeps the project ecosystem clean, organized and easy to explore.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngineerHabib&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineer%20Habibur%20Rahman%20-%20Contribution%20Activity" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=EngineerHabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerHabib&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=EngineerHabib&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
+
 
 ## 🎯 My Development Journey
 
