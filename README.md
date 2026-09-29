@@ -166,28 +166,13 @@ This keeps the project ecosystem clean, organized and easy to explore.
 </div>
 
 ---
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EngineerHabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerHabib&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=EngineerHabib&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngineerHabib&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineer%20Habibur%20Rahman%20-%20Contribution%20Activity" width="100%" />
 
 </div>
-
----
 
 ## 🎯 My Development Journey
 
